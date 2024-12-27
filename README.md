@@ -45,6 +45,10 @@ Developed by: D KEERTHAN
 
 RegisterNumber: 24901007
 
+**TRUTH TABLE**
+
+![image](https://github.com/user-attachments/assets/5552b364-1c42-4515-a442-15ef3eea6f1a)
+
 
 **RTL LOGIC FOR SISO Shift Register**
 
